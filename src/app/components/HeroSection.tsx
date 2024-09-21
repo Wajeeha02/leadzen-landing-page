@@ -174,7 +174,7 @@ const HeroSection: FC = () => {
             </div>
           </div>
 
-          <p className="font-medium mt-[0.25rem] text-[1rem]  sm:text-[0.4rem] md:text-[0.875rem] lg:text-[2.7rem] 2xl:text-[2.5rem] mb-[0.75rem] px-0 sm:px-[1.5rem] md:px-[2rem] lg:justify-center tracking-wide bg-lightblue max-w-sm lg:max-w-4xl mx-auto text-center">
+          <p className="font-medium mt-[0.25rem] text-[1rem]  sm:text-[0.4rem] md:text-[0.875rem] lg:text-[2rem] lg:p-4 rounded-lg 2xl:text-[2.5rem] mb-[0.75rem] px-0 sm:px-[1.5rem] md:px-[2rem] lg:justify-center tracking-wide bg-lightblue max-w-sm lg:max-w-4xl mx-auto text-center">
             <span>Transforming Business Insights</span> into Smarter,
             Data-Driven <span className="text-bluedark font-medium">Success</span>
           </p>

@@ -19,8 +19,7 @@ const Reason: FC = () => {
           <h1 className="font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl 2xl:text-7xl text-white-light">
             Why LeadZen?
           </h1>
-
-          <div className="ml-3 w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 lg:w-24 lg:h-24">
+          <div className=" w-28 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 lg:w-24 lg:h-24">
             <img src={questionIcon.src} alt="question icon" />
           </div>
         </div>

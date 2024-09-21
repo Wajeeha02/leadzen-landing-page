@@ -12,7 +12,7 @@ const ContactUs: FC = () => {
         backgroundRepeat: "no-repeat",
       }}
     >
-      <div className="relative bg-white p-8 rounded-lg shadow-lg w-full max-w-md z-10 2xl:max-w-5xl 2xl:p-24">
+      <div className="relative bg-white p-8 rounded-lg shadow-lg w-full max-w-xs lg:max-w-md z-10 2xl:max-w-5xl 2xl:p-24">
         <h1 className="text-2xl font-bold text-bluedark mb-6 text-center 2xl:text-6xl">Contact Us</h1>
         <form>
           <div className="mb-4">
